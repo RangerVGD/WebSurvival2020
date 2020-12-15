@@ -1,0 +1,16 @@
+{
+"companyName": "SVHS Coach Nunley",
+"productName": "2020Survival Coach",
+"productVersion": "0.1",
+"dataUrl": "WebSurvival2020.data.unityweb",
+"wasmCodeUrl": "WebSurvival2020.wasm.code.unityweb",
+"wasmFrameworkUrl": "WebSurvival2020.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.9f1"
+}
